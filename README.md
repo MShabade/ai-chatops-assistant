@@ -32,3 +32,5 @@ infra/           # Terraform / infrastructure code
 k8s/             # Kubernetes manifests
 helm/            # Helm charts
 docs/            # Project documentation
+requirements.txt # Python dependencies
+Dockerfile       # Containerization
